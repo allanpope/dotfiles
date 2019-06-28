@@ -1,0 +1,20 @@
+{
+    "editor.fontFamily": "'Inconsolata for Powerline', 'Courier New', monospace",
+    "editor.fontSize": 19,
+    "editor.quickSuggestionsDelay": 30,
+    "workbench.editor.tabSizing": "shrink",
+    "files.trimTrailingWhitespace": true,
+    "editor.cursorBlinking": "solid",
+    "workbench.colorTheme": "Cobalt2",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.formatOnSave": true,
+    "editor.autoIndent": true,
+    "files.insertFinalNewline": true,
+    "editor.matchBrackets": true,
+    "editor.scrollBeyondLastLine": true,
+    "editor.useTabStops": true,
+    "editor.formatOnPaste": true,
+    "window.zoomLevel": 0,
+}
