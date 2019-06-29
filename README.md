@@ -27,6 +27,10 @@ Using [Hyper](https://hyper.is).
 - `brew install nvm`
 - `mkdir ~/.nvm`
 
+# Other
+
+- Git open `npm install --global git-open`
+
 ## VS Code extensions
 
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
