@@ -15,6 +15,18 @@ Install powerline `brew cask install font-inconsolata-for-powerline``
 
 [Spectacle](https://www.spectacleapp.com/)
 
+## Terminal
+
+Using [Hyper](https://hyper.is).
+
+- [Pure](https://github.com/sindresorhus/pure)
+- [Z](https://github.com/rupa/z) # Need to add `z.sh` to root directory
+
+# Node
+
+- `brew install nvm`
+- `mkdir ~/.nvm`
+
 ## VS Code extensions
 
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
