@@ -27,6 +27,9 @@ Using [Hyper](https://hyper.is).
 - `brew install nvm`
 - `mkdir ~/.nvm`
 
+# VSCode settings
+`code Library/Application Support/Code/User/settings.json`
+
 # Other
 
 - Git open `npm install --global git-open`
