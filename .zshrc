@@ -19,6 +19,9 @@ load-nvmrc() {
 add-zsh-hook chpwd load-nvmrc
 load-nvmrc
 
+# Autocomplete for git branches
+autoload -Uz compinit && compinit
+
 # Alias
 alias gs="git status"
 alias gco="git checkout"
